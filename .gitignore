@@ -2,3 +2,4 @@
 .DS_Store
 /datasets/Pickle-Ball---Tom-Brady-Reach-Out-47
 /test-input.mp4
+*.sh
